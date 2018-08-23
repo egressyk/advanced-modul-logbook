@@ -1,0 +1,33 @@
+[1] - Refresh Javascript knowledge.
+    Understand differences of Prototypes vs Classes and other differences of the language.
+    Implement a zoo with different kinds of animals.
+    
+[1] - Get to know Typscript. Setup environment for development.
+    Understand the features and familiarize with the language. 
+    Implement Hello World.
+    
+[1] - Delve deeper into Typscript.
+    Implement the same zoo with it.
+    
+[1] - Get to know Node.js. Setup environment for development.
+    Understand the features and familiarize with the environment. 
+    Implement Hello World. 
+    
+[1] - Dig deeper into Node.js with Typescript.
+    Implement a simple REST API.
+    
+[1] - Getting started with Docker.
+    Understand the basic features.
+    Run the Node.js REST API in Docker.
+    
+[1] - Dig deeper in Docker.
+    Learn to develop through Docker.
+    Create deployable Docker package of the Node.js REST API.
+    
+[1] - Get to know AWS cloud hosting service.
+    Create account.
+    Deploy the Node.js REST API in a Docker package onto Digital Ocean.
+    
+~~~~~~~~
+[8] - Summary
+~~~~~~~~
